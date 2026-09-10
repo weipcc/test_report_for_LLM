@@ -32,3 +32,5 @@ if __name__ == "__main__":
     total = calculate_total(cart)
     print(f"總金額: {format_price(total)}")
     print(f"平均價格: {format_price(calculate_average(cart))}")
+
+    #testingttttttt
